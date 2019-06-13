@@ -8,6 +8,17 @@
 
 _{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
 
+## Specs
+
+| Behavior | Input | Output |
+| ------------- |:-------------:| -----:|
+| Converts 1 to a roman numeral | 1 | I |
+| Converts base numbers | 5 | V |
+| Converts base numbers | 1000 | M |
+| Converts numbers that don't require subtraction | 6 | VI |
+| Converts numbers that don't require subtraction | 58 | LVIII |
+| Converts numbers that do require subtraction | 9 | IX |
+
 ## Setup/Installation Requirements
 
 * _This is a great place_
